@@ -1,0 +1,13 @@
+D:\coding\C#\timetransform\timetransform\bin\Debug\timetransform.exe.config
+D:\coding\C#\timetransform\timetransform\bin\Debug\timetransform.exe
+D:\coding\C#\timetransform\timetransform\bin\Debug\timetransform.pdb
+D:\coding\C#\timetransform\timetransform\obj\Debug\timetransform.Form1.resources
+D:\coding\C#\timetransform\timetransform\obj\Debug\timetransform.Properties.Resources.resources
+D:\coding\C#\timetransform\timetransform\obj\Debug\timetransform.csproj.GenerateResource.cache
+D:\coding\C#\timetransform\timetransform\obj\Debug\timetransform.exe
+D:\coding\C#\timetransform\timetransform\obj\Debug\timetransform.pdb
+D:\coding\C#\timetransform\timetransform\obj\Debug\timetransform.csprojAssemblyReference.cache
+D:\coding\C#\timetransform\timetransform\bin\Debug\timetransform.exe.manifest
+D:\coding\C#\timetransform\timetransform\bin\Debug\timetransform.application
+D:\coding\C#\timetransform\timetransform\obj\Debug\timetransform.exe.manifest
+D:\coding\C#\timetransform\timetransform\obj\Debug\timetransform.application
